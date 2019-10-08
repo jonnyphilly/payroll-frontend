@@ -1,0 +1,31 @@
+body {
+  background-color: #F8F8FF;
+}
+
+button {
+  width: 300px;
+}
+
+table {
+  margin-bottom: 15px;
+}
+
+.header {
+  font-family: 'Oswald', sans-serif;
+}
+
+.header a {
+  color: black;
+}
+
+.log-in {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.log-out {
+  width: 100px;
+}
+
+.form-control {
+  width: 300px;
+}
