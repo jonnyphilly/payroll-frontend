@@ -47,7 +47,7 @@ class LogIn extends Component {
         <div className='header'>
           <h1>
             <Link to='/home'>
-              Tanda Challenge
+              Payroll App
             </Link>
           </h1>
         </div>

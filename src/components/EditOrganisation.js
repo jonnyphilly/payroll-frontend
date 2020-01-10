@@ -50,7 +50,7 @@ class EditOrganisation extends Component {
               user: this.props.location.state.user,
               sessionId: this.props.location.state.sessionId }
             }}>
-              Tanda Challenge
+              Payroll App
             </Link>
           </h1>
         </div>

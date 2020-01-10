@@ -88,7 +88,7 @@ class Shifts extends Component {
                 sessionId: this.state.sessionId
               }
             }}>
-              Tanda Challenge
+              Payroll App
             </Link>
           </h1>
         </div>
