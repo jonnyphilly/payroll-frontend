@@ -65,45 +65,41 @@ class SignUp extends Component {
             <label htmlFor="name">
               Name
             </label>
-            <br />
             <input
               type="text"
               name="name"
               id="name"
+              className="form-control"
             />
-            <br />
             <label htmlFor="email">
               Email
             </label>
-            <br />
             <input
               type="email"
               name="email"
               id="email"
+              className="form-control"
             />
-            <br />
             <label htmlFor="password">
               Password
               <br />
               <i> (6 characters minimum) </i>
             </label>
-            <br />
             <input
               type="password"
               name="password"
               id="password"
+              className="form-control"
             />
-            <br />
             <label htmlFor="confirmPassword">
               Confirm Password
             </label>
-            <br />
             <input
               type="password"
               name="confirmpassword"
               id="confirmpassword"
+              className="form-control"
             />
-            <br />
             <button type="submit">
               Sign Up
             </button>
